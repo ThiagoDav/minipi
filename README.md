@@ -1,5 +1,8 @@
 Bem-vindo, este e um site de exemplo simples projetado para ensinar técnicas de design e desenvolvimento web responsivos. Desde uma interface limpa e moderna até componentes interativos e informativos, este site oferece uma variedade de recursos.
 
+Link do site: https://6646695aa98b790554f57881--mellifluous-babka-65a02d.netlify.app/
+
+
 ![barra de navegacao](https://github.com/ThiagoDav/minipi/assets/163654698/72d8df08-77cd-460f-b642-708138b00107)
 
 Características Essenciais:
