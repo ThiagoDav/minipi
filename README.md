@@ -1,7 +1,12 @@
 Bem-vindo, este e um site de exemplo simples projetado para ensinar técnicas de design e desenvolvimento web responsivos. Desde uma interface limpa e moderna até componentes interativos e informativos, este site oferece uma variedade de recursos.
 
+![barra de navegacao](https://github.com/ThiagoDav/minipi/assets/163654698/72d8df08-77cd-460f-b642-708138b00107)
 
 Características Essenciais:
+![video](https://github.com/ThiagoDav/minipi/assets/163654698/1897394b-d2d1-4fe5-ae02-b47b49fa9a2c)
+
+![footer](https://github.com/ThiagoDav/minipi/assets/163654698/3d83d858-0347-4297-a353-291519bd1715)
+
 
 Atraente Página Inicial: A página inicial atrai os visitantes com uma apresentação visualmente atraente e uma navegação fácil de usar.
 
